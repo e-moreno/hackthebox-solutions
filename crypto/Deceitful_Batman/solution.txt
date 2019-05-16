@@ -1,0 +1,4 @@
+Bacon's Cypher
+https://www.dcode.fr/bacon-cipher
+
+A=A,B=N THEFLAGISNAPIER
